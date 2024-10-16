@@ -13,8 +13,8 @@ The dataset provided on Kaggle ["Deforestation in Ukraine from Sentinel2 data"](
 To solve this problem, the following steps were taken:
 1. According to the recommendation to the task it was decided to use masks based on geojson data with selection of only certain key places on the images. 
 2. Converting the images into grayscale and resizing images to save space and computing power.
-3. Finding key points of images using AKAZE method and creating a dataframe where the information will be stored.
-4. Comparison of two images based on the found dexrippers and key points. The results are also recorded in the dataframe.
+3. Finding keypoints of images using AKAZE method and creating a dataframe where the information will be stored.
+4. Comparison of two images based on the found dexrippers and keypoints. The results are also recorded in the dataframe.
 5. Visualization of the obtained results for further analysis.
 
 ## Improvements
