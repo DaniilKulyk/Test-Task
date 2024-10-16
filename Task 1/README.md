@@ -15,7 +15,7 @@ The solution process was as follows:
 1. To train the model, the original dataset was processed for problematic characters/values. 
 2. The resulting dataset was converted to the format required for training by the library and a new class “MOUNTAIN_NAME” was created
 3. A config file was created with all necessary parameters, including the required architecture based on the “roBERTa-Based” model.
-4. Trained the model and saved the best version of it.
+4. Trained the model and saved the [best version](https://drive.google.com/drive/folders/1LpS08LlcjQAoGtePH7cQ7Ankeso5QuG2?usp=sharing) of it.
 
 ## Improvements
 
