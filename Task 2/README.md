@@ -10,6 +10,8 @@ The dataset provided on Kaggle ["Deforestation in Ukraine from Sentinel2 data"](
 
 ## Solution
 
+Due to the fact that the Python notebook turned out to be large, I am attaching a link to [Google Drive](https://drive.google.com/drive/folders/14qgmMvG7Vfdcdr2m-R36UCMlD0GqJnnd?usp=sharing). The datasets can also be found there.
+
 To solve this problem, the following steps were taken:
 1. According to the recommendation to the task it was decided to use masks based on geojson data with selection of only certain key places on the images. 
 2. Converting the images into grayscale and resizing images to save space and computing power.
